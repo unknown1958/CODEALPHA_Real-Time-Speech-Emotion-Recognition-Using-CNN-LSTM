@@ -1,7 +1,4 @@
-# Real-Time Speech Emotion Recognition Using CNN-LSTM
-
 ## 1. Project Title
-
 Real-Time Speech Emotion Recognition Using CNN-LSTM Deep Learning Architecture
 
 ---
