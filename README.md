@@ -1,9 +1,4 @@
-## 1. Project Title
-Real-Time Speech Emotion Recognition Using CNN-LSTM Deep Learning Architecture
-
----
-
-## 2. Problem Statement
+## 1. Problem Statement
 
 Human speech carries emotional information through variations in pitch, tone, energy, and speaking patterns. Traditional communication systems focus mainly on the spoken words and often ignore emotional cues.
 
@@ -11,7 +6,7 @@ The objective of this project is to develop a deep learning-based Speech Emotion
 
 ---
 
-## 3. Objectives
+## 2. Objectives
 
 1. Develop an intelligent system capable of recognizing emotions from speech.
 2. Extract meaningful audio features from speech signals.
@@ -22,7 +17,7 @@ The objective of this project is to develop a deep learning-based Speech Emotion
 
 ---
 
-## 4. Scope of the Project
+## 3. Scope of the Project
 
 The project focuses on recognizing emotions from speech audio using deep learning techniques.
 
@@ -40,7 +35,7 @@ The system will process audio signals, extract features, classify emotions, and 
 
 ---
 
-## 5. Dataset
+## 4. Dataset
 
 Dataset: RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)
 
@@ -61,7 +56,7 @@ Output Labels:
 
 ---
 
-## 6. System Architecture
+## 5. System Architecture
 
 Speech Input
 ↓
@@ -85,7 +80,7 @@ Real-Time Display
 
 ---
 
-## 7. Methodology
+## 6. Methodology
 
 ### Phase 1: Data Collection
 
@@ -146,7 +141,7 @@ Softmax layer predicts:
 
 ---
 
-## 8. Technologies Used
+## 7. Technologies Used
 
 Programming Language:
 
@@ -171,7 +166,7 @@ Development Environment:
 
 ---
 
-## 9. CNN-LSTM Architecture
+## 8. CNN-LSTM Architecture
 
 Input Shape:
 128 × 128 Mel Spectrogram
@@ -206,7 +201,7 @@ Emotion Classes
 
 ---
 
-## 10. Evaluation Metrics
+## 9. Evaluation Metrics
 
 The model performance will be evaluated using:
 
@@ -218,7 +213,7 @@ The model performance will be evaluated using:
 
 ---
 
-## 11. Expected Outcomes
+## 10. Expected Outcomes
 
 * Accurate emotion recognition from speech
 * Real-time microphone-based emotion detection
@@ -227,7 +222,7 @@ The model performance will be evaluated using:
 
 ---
 
-## 12. Future Enhancements
+## 11. Future Enhancements
 
 * Multilingual emotion recognition
 * Video + audio emotion detection
@@ -238,7 +233,7 @@ The model performance will be evaluated using:
 
 ---
 
-## 13. Project Timeline (7 Days)
+## 12. Project Timeline (7 Days)
 
 Day 1:
 
@@ -275,6 +270,6 @@ Day 7:
 
 ---
 
-## 14. Conclusion
+## 13. Conclusion
 
 This project presents a real-time Speech Emotion Recognition system using a hybrid CNN-LSTM architecture. The model leverages CNN layers for spatial feature extraction and LSTM layers for temporal sequence learning, enabling accurate recognition of emotions from speech signals. The developed system demonstrates practical applications in human-computer interaction, virtual assistants, customer service analytics, and healthcare monitoring.
